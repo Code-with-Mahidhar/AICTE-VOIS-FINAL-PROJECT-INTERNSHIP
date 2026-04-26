@@ -29,6 +29,7 @@ To analyze raw datasets and transform them into **meaningful insights** using da
 
 ```text
 Data Collection → Data Cleaning → EDA → Visualization → Insights → Conclusion
+
 🛠️ Tools & Technologies
 🐍 Python
 📊 Pandas, NumPy
@@ -78,8 +79,6 @@ This project reflects my ability to:
 - Apply data analytics concepts  
 - Build insights for decision-making  
 
-👉 Demonstrates readiness for **Data Analyst roles**
-
 👉 Demonstrates readiness for Data Analyst roles
 
 🔮 Future Enhancements
@@ -87,6 +86,7 @@ Dashboard creation (Power BI / Tableau)
 Advanced ML models
 Real-time analytics systems
 Web-based analytics applications
+
 👨‍💻 Author
 
 Mahidhar Reddy
