@@ -7,15 +7,15 @@
 
 ## 🏢 Project Overview
 
-This repository contains my **final project work** from the AICTE VOIS Internship Program.
+This repository contains...
 
-The project demonstrates:
+### The project demonstrates:
 - Data cleaning & preprocessing  
 - Exploratory Data Analysis (EDA)  
 - Data visualization  
-- Insight generation from real-world datasets  
+- Insight generation
 
-💡 The internship emphasizes **practical exposure and real-world problem solving**, helping students build industry-ready skills. :contentReference[oaicite:0]{index=0}  
+💡 The internship emphasizes **practical exposure and real-world problem solving**, helping students build industry-ready skills. 
 
 ---
 
@@ -35,22 +35,24 @@ Data Collection → Data Cleaning → EDA → Visualization → Insights → Con
 📉 Matplotlib, Seaborn
 📓 Jupyter Notebook
 
-📊 Project Tasks
-✔ Data preprocessing and handling missing values
-✔ Exploratory Data Analysis (EDA)
-✔ Visualization of trends and patterns
-✔ Insight extraction for decision-making
+## 📊 Project Tasks
 
-📈 Key Insights
-Identified trends and patterns in dataset
-Improved understanding of data behavior
-Generated meaningful visual reports
+- ✔ Data preprocessing and handling missing values  
+- ✔ Exploratory Data Analysis (EDA)  
+- ✔ Visualization of trends and patterns  
+- ✔ Insight extraction for decision-making  
 
-🚀 Key Highlights
-📊 Worked on real-world dataset
-📈 Built visualizations for better understanding
-⚙️ Followed complete data analytics pipeline
-🧠 Applied analytical thinking to solve problems
+## 📈 Key Insights
+
+- Identified meaningful trends and patterns  
+- Improved understanding of dataset behavior  
+- Generated clear and actionable visual reports  
+
+## 🚀 Key Highlights
+- 📊 Worked on real-world dataset
+- 📈 Built visualizations for better understanding
+- ⚙️ Followed complete data analytics pipeline
+- 🧠 Applied analytical thinking to solve problems
 
 📂 Repository Structure
 AICTE-VOIS-FINAL-PROJECT-INTERNSHIP/
@@ -68,13 +70,15 @@ Data visualization best practices
 Analytical thinking using real datasets
 Converting raw data into actionable insights
 
-💥 Why This Project Matters
+## 💥 Why This Project Matters
 
 This project reflects my ability to:
 
-Work with real datasets
-Apply data analytics concepts
-Build insights for decision-making
+- Work with real datasets  
+- Apply data analytics concepts  
+- Build insights for decision-making  
+
+👉 Demonstrates readiness for **Data Analyst roles**
 
 👉 Demonstrates readiness for Data Analyst roles
 
