@@ -34,20 +34,24 @@ Data Collection → Data Cleaning → EDA → Visualization → Insights → Con
 📊 Pandas, NumPy
 📉 Matplotlib, Seaborn
 📓 Jupyter Notebook
+
 📊 Project Tasks
 ✔ Data preprocessing and handling missing values
 ✔ Exploratory Data Analysis (EDA)
 ✔ Visualization of trends and patterns
 ✔ Insight extraction for decision-making
+
 📈 Key Insights
 Identified trends and patterns in dataset
 Improved understanding of data behavior
 Generated meaningful visual reports
+
 🚀 Key Highlights
 📊 Worked on real-world dataset
 📈 Built visualizations for better understanding
 ⚙️ Followed complete data analytics pipeline
 🧠 Applied analytical thinking to solve problems
+
 📂 Repository Structure
 AICTE-VOIS-FINAL-PROJECT-INTERNSHIP/
 │
@@ -56,19 +60,14 @@ AICTE-VOIS-FINAL-PROJECT-INTERNSHIP/
 ├── outputs/        # Graphs / results
 ├── reports/        # Documentation
 └── README.md
-📸 Project Output
 
-(Add your graphs / charts screenshots here)
-
-📜 Certification
-
-(Add internship certificate image here)
 
 🧠 What I Learned
 Data cleaning and preprocessing techniques
 Data visualization best practices
 Analytical thinking using real datasets
 Converting raw data into actionable insights
+
 💥 Why This Project Matters
 
 This project reflects my ability to:
