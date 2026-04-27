@@ -27,15 +27,16 @@ To analyze raw datasets and transform them into **meaningful insights** using da
 
 ## ⚙️ Workflow
 
-```text
 Data Collection → Data Cleaning → EDA → Visualization → Insights → Conclusion
 
-🛠️ Tools & Technologies
-🐍 Python
-📊 Pandas, NumPy
-📉 Matplotlib, Seaborn
-📓 Jupyter Notebook
+---
+## 🛠️ Tools & Technologies
+- 🐍 Python
+- 📊 Pandas, NumPy
+- 📉 Matplotlib, Seaborn
+- 📓 Jupyter Notebook
 
+---
 ## 📊 Project Tasks
 
 - ✔ Data preprocessing and handling missing values  
@@ -43,19 +44,23 @@ Data Collection → Data Cleaning → EDA → Visualization → Insights → Con
 - ✔ Visualization of trends and patterns  
 - ✔ Insight extraction for decision-making  
 
+---
 ## 📈 Key Insights
 
 - Identified meaningful trends and patterns  
 - Improved understanding of dataset behavior  
 - Generated clear and actionable visual reports  
 
+---
 ## 🚀 Key Highlights
 - 📊 Worked on real-world dataset
 - 📈 Built visualizations for better understanding
 - ⚙️ Followed complete data analytics pipeline
 - 🧠 Applied analytical thinking to solve problems
 
+---
 📂 Repository Structure
+```bash
 AICTE-VOIS-FINAL-PROJECT-INTERNSHIP/
 │
 ├── dataset/        # Input data
@@ -63,14 +68,15 @@ AICTE-VOIS-FINAL-PROJECT-INTERNSHIP/
 ├── outputs/        # Graphs / results
 ├── reports/        # Documentation
 └── README.md
+```
+---
+## 🧠 What I Learned
+- Data cleaning and preprocessing techniques
+- Data visualization best practices
+- Analytical thinking using real datasets
+- Converting raw data into actionable insights
 
-
-🧠 What I Learned
-Data cleaning and preprocessing techniques
-Data visualization best practices
-Analytical thinking using real datasets
-Converting raw data into actionable insights
-
+---
 ## 💥 Why This Project Matters
 
 This project reflects my ability to:
@@ -80,18 +86,19 @@ This project reflects my ability to:
 - Build insights for decision-making  
 
 👉 Demonstrates readiness for Data Analyst roles
+---
+## 🔮 Future Enhancements
+- Dashboard creation (Power BI / Tableau)
+- Advanced ML models
+- Real-time analytics systems
+- Web-based analytics applications
 
-🔮 Future Enhancements
-Dashboard creation (Power BI / Tableau)
-Advanced ML models
-Real-time analytics systems
-Web-based analytics applications
-
-👨‍💻 Author
+---
+## 👨‍💻 Author
 
 Mahidhar Reddy
 🚀 Aspiring Data Analyst | Backend Developer
 
-💼 GitHub: https://github.com/Code-with-Mahidhar
-🔗 LinkedIn: https://www.linkedin.com/in/mahidhar-reddy-bandre-009894264
-📧 Email:mahidharreddybandre@gmail.com
+💼 GitHub: https://github.com/Code-with-Mahidhar 
+🔗 LinkedIn: https://www.linkedin.com/in/mahidhar-reddy-bandre-009894264 
+📧 Email:mahidharreddybandre@gmail.com 
